@@ -2,10 +2,6 @@
 
 ### A seasoned Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hammadlight&label=Profile views&color=0e75b6&style=flat" alt="Hammadlight" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hammadlight" alt="Hammadlight" /></a> </p>
-
 - 🔭 I'm currently working on **Ai/Ml,Web development,and Software development projects**
 
 - 📫 How to reach me **hammadnoor19@gmail.com**
