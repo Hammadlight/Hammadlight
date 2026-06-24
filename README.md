@@ -2,9 +2,13 @@
 
 ### A seasoned Javascript developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hammadlight&label=Profile views&color=0e75b6&style=flat" alt="Hammadlight" /> </p>
+
 - 🔭 I'm currently working on **Ai/Ml,Web development,and Software development projects**
 
 - 📫 How to reach me **hammadnoor19@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://hammadlight.github.io/Updated-Portfolio/](https://hammadlight.github.io/Updated-Portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
